@@ -1,6 +1,6 @@
 ---
 title: “The Relationship Between Income and College Majors"
-author: "Christina Lyu, Julie Destine, Rachel Iradukunda"
+author: "Christina Lyu, Julie Destine, Rachel Iradukunda (using Github^[Github link: https://github.com/ChristinaLyu/SDS201-Project.git])"
 date: "4/6/2018"
 output: html_document
 ---
